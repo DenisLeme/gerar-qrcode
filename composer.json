@@ -64,3 +64,6 @@
     "minimum-stability": "stable",
     "prefer-stable": true
 }
+"require": {
+    "simplesoftwareio/simple-qrcode": "~2"
+}
